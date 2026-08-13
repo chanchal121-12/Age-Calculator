@@ -41,4 +41,4 @@ Age-Calculator/
 
 **Chanchal Rai**
 
-GitHub: [Your GitHub Profile](https://github.com/chanchal121-12)
+GitHub: [My GitHub Profile](https://github.com/chanchal121-12)
