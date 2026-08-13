@@ -35,10 +35,10 @@ Age-Calculator/
 
 ## Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](https://age-calculator-iota-smoky.vercel.app/)
 
 ## Author
 
 **Chanchal Rai**
 
-GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
+GitHub: [Your GitHub Profile](https://github.com/chanchal121-12)
